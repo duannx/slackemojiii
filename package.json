@@ -1,0 +1,16 @@
+{
+  "name": "slackemojiii",
+  "version": "1.0.0",
+  "description": "Helper for automating upload emoji to slack by using puppeteer",
+  "main": "index.js",
+  "author": "xuanduannguyen@gmail.com",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "puppeteer": "^10.1.0"
+  }
+}
