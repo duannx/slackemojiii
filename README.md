@@ -23,4 +23,5 @@ or specific the directory path
 ```sh
 npm --directory="path-to-emoji-directory" run dev
 ```
-The program will open a chrome browser window and start uploading emojis. Your work now is waiting it complete
+The program will open a chrome browser window and start uploading emojis. Your work now is waiting it complete <br>
+**Note that:** Your directory should only contain image files and no sub categories.
